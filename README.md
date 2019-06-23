@@ -5,4 +5,4 @@ in it.The set S1 corresponds to all those values where 1st bit i.e bit number 0 
 For exmaple , if N=3, three sets would be
 S1(xx0) = 1,3,5,7
 S2(x0x) = 1,5,2,6
-s1(0xx) = 1,2,3,4
+s3(0xx) = 1,2,3,4
